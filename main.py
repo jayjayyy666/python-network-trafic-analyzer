@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
+
 """
 Simple network traffic analyzer with anomaly detection.
-Fill in the TODO sections to complete the implementation.
 """
 
 import pandas as pd
